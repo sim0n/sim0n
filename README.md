@@ -1,16 +1,75 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there, I'm Simon<h1>
 
-<!--
-**sim0n/sim0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 You may talk or ask me about about cyber security and or anticheats.
+- 📫 You can reach me at **me@sim0n.dev**.
 
-Here are some ideas to get you started:
+## PGP
+If you want to contact me about something sensitive please encrypt your message using PGP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><strong>Public Key</strong></summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=BxI3
+-----END PGP PUBLIC KEY BLOCK-----
+```
+</details>
+  
+<details>
+  <summary><strong>Key Details</strong></summary>
+  
+**User ID:** sim0n
+
+**Expiry:** 12/03/2023
+
+**Fingerprint:** BE2E 207F F501 AE15 FF77  B275 C9A9 26B4 00F4 73FA
+</details>
