@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Simon<h1>
 
-- 💬 You may talk or ask me about about cyber security and or anticheats.
+- 💬 You may talk or ask me about cyber security and or anticheats.
 - 📫 You can reach me at **me@sim0n.dev**.
 
 ## PGP
