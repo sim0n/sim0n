@@ -69,9 +69,9 @@ D2hgS2Ne38EpV1AcKQHFI3UfkIMimnrVBDE/fAgoEcxvDU9atCku3qeVZCJq7abg
   
 **User ID:** sim0n
 
-**Expiry:** 12/03/2023
+**Expiry:** 2024-02-03
 
-**Fingerprint:** BE2E 207F F501 AE15 FF77  B275 C9A9 26B4 00F4 73FA
+**Fingerprint:** 2744 D7D9 CDED C4FB 139F  D6B7 1072 0B99 40CA 3A9C
   
 **Security:** This key was generated on a FIPS 140-2 level 4 validated card.
 </details>
